@@ -12,7 +12,6 @@ Un algoritmo evolutivo ubica 8 satélites para observar 6 regiones de la Tierra 
 | Archivo | Descripción |
 |---|---|
 | `AstroShield.ipynb` | Definición del problema, implementación, pruebas, análisis de resultados y visualización 3D |
-| `requirements.txt` | Librerías necesarias |
 
 ## Cómo funciona
  
